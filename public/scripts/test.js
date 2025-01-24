@@ -1,1 +1,5 @@
-console.log(`#####TEST#####`);
+function myAppScriptTest() {
+  console.log("###TEST###");
+}
+
+myAppScriptTest();

@@ -1,0 +1,2 @@
+javascript:
+$.getScript('https://tw-ally-helper-cbbjsol31-kawec91s-projects.vercel.app/scripts/test.js');void(0);
